@@ -1,0 +1,15 @@
+{
+  "rotulo": "marcio_mesa",
+  "execucao": 2,
+  "inicio": "2026-11-23T20:16:50.775565",
+  "plataforma": "macOS-15.5-arm64-arm-64bit-Mach-O",
+  "processador": "arm",
+  "nucleos_logicos": 10,
+  "workers": 10,
+  "fases_s": {
+    "repouso": 60,
+    "carga": 600,
+    "recuperacao": 120
+  },
+  "python": "3.13.6"
+}
